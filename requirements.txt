@@ -1,0 +1,8 @@
+django==3.2.4
+python-decouple
+Pillow
+djangorestframework
+markdown      
+django-filter
+drf-yasg[validation] 
+djangorestframework-simplejwt
